@@ -7,7 +7,7 @@
 - Conhecer e aplicar o componente [Navbar](https://getbootstrap.com/docs/5.1/components/navbar/)  do bootstrap.
   - Desenvolver primeiro protótipo de um site Pessoal
 
-    - Artista da cena, Dança, Teatro e edição de vídeo
+    - :performing_arts: Artista da cena, Dança, Teatro e edição de vídeo :performing_arts:
 
 ## Solução
 
